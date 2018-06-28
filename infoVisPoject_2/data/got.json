@@ -1,0 +1,4194 @@
+{
+    "graphml": {
+        "key": [
+            {
+                "attr.name": "status",
+                "attr.type": "string",
+                "for": "node",
+                "id": "status"
+            },
+            {
+                "attr.name": "house-birth",
+                "attr.type": "string",
+                "for": "node",
+                "id": "house-birth"
+            },
+            {
+                "attr.name": "name",
+                "attr.type": "string",
+                "for": "node",
+                "id": "name"
+            },
+            {
+                "attr.name": "group",
+                "attr.type": "string",
+                "for": "node",
+                "id": "group"
+            },
+            {
+                "attr.name": "house-marriage",
+                "attr.type": "string",
+                "for": "node",
+                "id": "house-marriage"
+            },
+            {
+                "attr.name": "relation",
+                "attr.type": "string",
+                "id": "relation"
+            },
+            {
+                "attr.name": "type",
+                "attr.type": "string",
+                "id": "type"
+            }
+        ],
+        "graph": {
+            "edgedefault": "directed",
+            "id": "",
+            "node": [
+                {
+                    "id": "0",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Arryn"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Robin Arryn"
+                        }
+                    ]
+                },
+                {
+                    "id": "1",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Clegane"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Gregor Clegane"
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Clegane"
+                        },
+                        {
+                            "key": "group",
+                            "text": "Brotherhood Without Banners"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Sandor Clegane"
+                        }
+                    ]
+                },
+                {
+                    "id": "3",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Drogon"
+                        }
+                    ]
+                },
+                {
+                    "id": "4",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Baratheon"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Gendry"
+                        }
+                    ]
+                },
+                {
+                    "id": "5",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Ghost"
+                        }
+                    ]
+                },
+                {
+                    "id": "6",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Grey Worm"
+                        }
+                    ]
+                },
+                {
+                    "id": "7",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Greyjoy"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Aeron Greyjoy"
+                        }
+                    ]
+                },
+                {
+                    "id": "8",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Greyjoy"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Euron Greyjoy"
+                        }
+                    ]
+                },
+                {
+                    "id": "9",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Greyjoy"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Theon Greyjoy"
+                        }
+                    ]
+                },
+                {
+                    "id": "10",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Greyjoy"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Yara Greyjoy"
+                        }
+                    ]
+                },
+                {
+                    "id": "11",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Targaryen"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Jon Snow"
+                        }
+                    ]
+                },
+                {
+                    "id": "12",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Lannister"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Cersei Lannister"
+                        }
+                    ]
+                },
+                {
+                    "id": "13",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Lannister"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Jaime Lannister"
+                        }
+                    ]
+                },
+                {
+                    "id": "14",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Lannister"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Tyrion Lannister"
+                        }
+                    ]
+                },
+                {
+                    "id": "15",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Melisandre"
+                        }
+                    ]
+                },
+                {
+                    "id": "16",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Missandei"
+                        }
+                    ]
+                },
+                {
+                    "id": "17",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Mormont"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Jorah Mormont"
+                        }
+                    ]
+                },
+                {
+                    "id": "18",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Night King"
+                        }
+                    ]
+                },
+                {
+                    "id": "19",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Nymeria"
+                        }
+                    ]
+                },
+                {
+                    "id": "20",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Payne"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Ilyn Payne"
+                        }
+                    ]
+                },
+                {
+                    "id": "21",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Payne"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Podrick Payne"
+                        }
+                    ]
+                },
+                {
+                    "id": "22",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Reed"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Howland Reed"
+                        }
+                    ]
+                },
+                {
+                    "id": "23",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Reed"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Meera Reed"
+                        }
+                    ]
+                },
+                {
+                    "id": "24",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Rhaegal"
+                        }
+                    ]
+                },
+                {
+                    "id": "25",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "Sand Snakes"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Ellaria Sand"
+                        }
+                    ]
+                },
+                {
+                    "id": "26",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Stark"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Arya Stark"
+                        }
+                    ]
+                },
+                {
+                    "id": "27",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Stark"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Bran Stark"
+                        }
+                    ]
+                },
+                {
+                    "id": "28",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Stark"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Sansa Stark"
+                        }
+                    ]
+                },
+                {
+                    "id": "29",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Targaryen"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Daenerys Targaryen"
+                        }
+                    ]
+                },
+                {
+                    "id": "30",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Tarth"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Brienne of Tarth"
+                        }
+                    ]
+                },
+                {
+                    "id": "31",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Tully"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Edmure Tully"
+                        }
+                    ]
+                },
+                {
+                    "id": "32",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Arryn"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Jon Arryn"
+                        }
+                    ]
+                },
+                {
+                    "id": "33",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-marriage",
+                            "text": "House Arryn"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Tully"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Lysa Arryn"
+                        }
+                    ]
+                },
+                {
+                    "id": "34",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Baelish"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Petyr Baelish"
+                        },
+                        {
+                            "key": "house-marriage",
+                            "text": "House Arryn"
+                        }
+                    ]
+                },
+                {
+                    "id": "35",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Baratheon"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Joffrey Baratheon"
+                        }
+                    ]
+                },
+                {
+                    "id": "36",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Baratheon"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Myrcella Baratheon"
+                        }
+                    ]
+                },
+                {
+                    "id": "37",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Baratheon"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Robert Baratheon"
+                        }
+                    ]
+                },
+                {
+                    "id": "38",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Baratheon"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Shireen Baratheon"
+                        }
+                    ]
+                },
+                {
+                    "id": "39",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Baratheon"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Stannis Baratheon"
+                        }
+                    ]
+                },
+                {
+                    "id": "40",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Baratheon"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Tommen Baratheon"
+                        }
+                    ]
+                },
+                {
+                    "id": "41",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Bolton"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Ramsay Bolton"
+                        }
+                    ]
+                },
+                {
+                    "id": "42",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Bolton"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Roose Bolton"
+                        }
+                    ]
+                },
+                {
+                    "id": "43",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Dayne"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Arthur Dayne"
+                        }
+                    ]
+                },
+                {
+                    "id": "44",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-marriage",
+                            "text": "House Targaryen"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Drogo"
+                        }
+                    ]
+                },
+                {
+                    "id": "45",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Frey"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Walder Frey"
+                        }
+                    ]
+                },
+                {
+                    "id": "46",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Greyjoy"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Balon Greyjoy"
+                        }
+                    ]
+                },
+                {
+                    "id": "47",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Grey Wind"
+                        }
+                    ]
+                },
+                {
+                    "id": "48",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "name",
+                            "text": "High Sparrow"
+                        }
+                    ]
+                },
+                {
+                    "id": "49",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Lady"
+                        }
+                    ]
+                },
+                {
+                    "id": "50",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Lannister"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Kevan Lannister"
+                        }
+                    ]
+                },
+                {
+                    "id": "51",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Lancel Lannister"
+                        }
+                    ]
+                },
+                {
+                    "id": "52",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Lannister"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Tywin Lannister"
+                        }
+                    ]
+                },
+                {
+                    "id": "53",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Martell"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Elia Martell"
+                        },
+                        {
+                            "key": "house-marriage",
+                            "text": "House Targaryen"
+                        }
+                    ]
+                },
+                {
+                    "id": "54",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Martell"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Oberyn Martell"
+                        }
+                    ]
+                },
+                {
+                    "id": "55",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Mormont"
+                        },
+                        {
+                            "key": "group",
+                            "text": "Night's Watch"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Jeor Mormont"
+                        }
+                    ]
+                },
+                {
+                    "id": "56",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "group",
+                            "text": "Night's Watch"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Olly"
+                        }
+                    ]
+                },
+                {
+                    "id": "57",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Osha"
+                        }
+                    ]
+                },
+                {
+                    "id": "58",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "group",
+                            "text": "Free Folk"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Mance Rayder"
+                        }
+                    ]
+                },
+                {
+                    "id": "59",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Reed"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Jojen Reed"
+                        }
+                    ]
+                },
+                {
+                    "id": "60",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "Sand Snakes"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Nymeria Sand"
+                        }
+                    ]
+                },
+                {
+                    "id": "61",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "group",
+                            "text": "Sand Snakes"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Obara Sand"
+                        }
+                    ]
+                },
+                {
+                    "id": "62",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "group",
+                            "text": "Sand Snakes"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Tyene Sand"
+                        }
+                    ]
+                },
+                {
+                    "id": "63",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Shae"
+                        }
+                    ]
+                },
+                {
+                    "id": "64",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Shaggydog"
+                        }
+                    ]
+                },
+                {
+                    "id": "65",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "group",
+                            "text": "House Stark"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Benjen Stark"
+                        }
+                    ]
+                },
+                {
+                    "id": "66",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-marriage",
+                            "text": "House Stark"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Tully"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Catelyn Stark"
+                        }
+                    ]
+                },
+                {
+                    "id": "67",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Stark"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Eddard Stark"
+                        }
+                    ]
+                },
+                {
+                    "id": "68",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Stark"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Lyanna Stark"
+                        },
+                        {
+                            "key": "house-marriage",
+                            "text": "House Targaryen"
+                        }
+                    ]
+                },
+                {
+                    "id": "69",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Stark"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Rickard Stark"
+                        }
+                    ]
+                },
+                {
+                    "id": "70",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Stark"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Rickon Stark"
+                        }
+                    ]
+                },
+                {
+                    "id": "71",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Stark"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Robb Stark"
+                        }
+                    ]
+                },
+                {
+                    "id": "72",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Summer"
+                        }
+                    ]
+                },
+                {
+                    "id": "73",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Thorne"
+                        },
+                        {
+                            "key": "group",
+                            "text": "Night's Watch"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Alliser Thorne"
+                        }
+                    ]
+                },
+                {
+                    "id": "74",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Uncertain"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Dondarrion"
+                        },
+                        {
+                            "key": "group",
+                            "text": "Brotherhood Without Banners"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Beric Dondarrion"
+                        }
+                    ]
+                },
+                {
+                    "id": "75",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "group",
+                            "text": "Free Folk"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Tormund"
+                        }
+                    ]
+                },
+                {
+                    "id": "76",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Targaryen"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Rhaegar Targaryen"
+                        }
+                    ]
+                },
+                {
+                    "id": "77",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Targaryen"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Aerys II Targaryen"
+                        }
+                    ]
+                },
+                {
+                    "id": "78",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Viserion"
+                        }
+                    ]
+                },
+                {
+                    "id": "79",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Baratheon"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Renly Baratheon"
+                        }
+                    ]
+                },
+                {
+                    "id": "80",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Alive"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Stark"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Brandon Stark"
+                        }
+                    ]
+                },
+                {
+                    "id": "81",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Tyrell"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Margaery Tyrell"
+                        },
+                        {
+                            "key": "house-marriage",
+                            "text": "House Baratheon"
+                        }
+                    ]
+                },
+                {
+                    "id": "82",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Targaryen"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Rhaella Targaryen"
+                        }
+                    ]
+                },
+                {
+                    "id": "83",
+                    "data": [
+                        {
+                            "key": "status",
+                            "text": "Deceased"
+                        },
+                        {
+                            "key": "house-marriage",
+                            "text": "House Tyrell"
+                        },
+                        {
+                            "key": "house-birth",
+                            "text": "House Redwyne"
+                        },
+                        {
+                            "key": "name",
+                            "text": "Olenna Tyrell"
+                        }
+                    ]
+                }
+            ],
+            "edge": [
+                {
+                    "source": "73",
+                    "target": "11",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "56",
+                    "target": "11",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "33",
+                    "target": "32",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "34",
+                    "target": "33",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "26",
+                    "target": "34",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "83",
+                    "target": "35",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "25",
+                    "target": "36",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "15",
+                    "target": "38",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "30",
+                    "target": "39",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "41",
+                    "target": "42",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "67",
+                    "target": "43",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "29",
+                    "target": "44",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "26",
+                    "target": "45",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "8",
+                    "target": "46",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "12",
+                    "target": "48",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "67",
+                    "target": "49",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "12",
+                    "target": "50",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "12",
+                    "target": "51",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "14",
+                    "target": "52",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "1",
+                    "target": "53",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "1",
+                    "target": "54",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "11",
+                    "target": "56",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "41",
+                    "target": "57",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "11",
+                    "target": "58",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "8",
+                    "target": "60",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "8",
+                    "target": "61",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "12",
+                    "target": "62",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "14",
+                    "target": "63",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "20",
+                    "target": "67",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "77",
+                    "target": "69",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "41",
+                    "target": "70",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "42",
+                    "target": "71",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "11",
+                    "target": "73",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "1",
+                    "target": "74",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "2",
+                    "target": "74",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "37",
+                    "target": "76",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "13",
+                    "target": "77",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "18",
+                    "target": "78",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "15",
+                    "target": "79",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "12",
+                    "target": "81",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "13",
+                    "target": "83",
+                    "data": {
+                        "key": "relation",
+                        "text": "killed"
+                    }
+                },
+                {
+                    "source": "32",
+                    "target": "0",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "source": "33",
+                    "target": "0",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "mother"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "2",
+                    "target": "1",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "24",
+                    "target": "3",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "78",
+                    "target": "3",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "source": "37",
+                    "target": "4",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "47",
+                    "target": "5",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "49",
+                    "target": "5",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "19",
+                    "target": "5",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "72",
+                    "target": "5",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "64",
+                    "target": "5",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "46",
+                    "target": "7",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "8",
+                    "target": "7",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "46",
+                    "target": "8",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "source": "46",
+                    "target": "9",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "10",
+                    "target": "9",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "source": "46",
+                    "target": "10",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "source": "76",
+                    "target": "11",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "source": "68",
+                    "target": "11",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "mother"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "71",
+                    "target": "11",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "28",
+                    "target": "11",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "26",
+                    "target": "11",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "27",
+                    "target": "11",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "70",
+                    "target": "11",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "source": "52",
+                    "target": "12",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "13",
+                    "target": "12",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "14",
+                    "target": "12",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "source": "52",
+                    "target": "13",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "14",
+                    "target": "13",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "source": "52",
+                    "target": "14",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "source": "55",
+                    "target": "17",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "47",
+                    "target": "19",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "49",
+                    "target": "19",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "72",
+                    "target": "19",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "64",
+                    "target": "19",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "source": "22",
+                    "target": "23",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "59",
+                    "target": "23",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "78",
+                    "target": "24",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "source": "67",
+                    "target": "26",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "source": "66",
+                    "target": "26",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "mother"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "71",
+                    "target": "26",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "28",
+                    "target": "26",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "27",
+                    "target": "26",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "source": "67",
+                    "target": "27",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "source": "66",
+                    "target": "27",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "mother"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "71",
+                    "target": "27",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "28",
+                    "target": "27",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "source": "67",
+                    "target": "28",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "source": "66",
+                    "target": "28",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "mother"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "71",
+                    "target": "28",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "source": "77",
+                    "target": "29",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "source": "82",
+                    "target": "29",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "mother"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "76",
+                    "target": "29",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "66",
+                    "target": "31",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "33",
+                    "target": "31",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "66",
+                    "target": "33",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "source": "13",
+                    "target": "35",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "source": "37",
+                    "target": "35",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "legal"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "source": "12",
+                    "target": "35",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "mother"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "36",
+                    "target": "35",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "40",
+                    "target": "35",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "source": "13",
+                    "target": "36",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "source": "37",
+                    "target": "36",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "legal"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "source": "12",
+                    "target": "36",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "mother"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "40",
+                    "target": "36",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "39",
+                    "target": "37",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "79",
+                    "target": "37",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "source": "39",
+                    "target": "38",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "79",
+                    "target": "39",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "source": "13",
+                    "target": "40",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "source": "37",
+                    "target": "40",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "legal"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "source": "12",
+                    "target": "40",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "mother"
+                        }
+                    ]
+                },
+                {
+                    "source": "42",
+                    "target": "41",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "49",
+                    "target": "47",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "72",
+                    "target": "47",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "64",
+                    "target": "47",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "72",
+                    "target": "49",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "64",
+                    "target": "49",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "52",
+                    "target": "50",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "source": "50",
+                    "target": "51",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "54",
+                    "target": "53",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "source": "22",
+                    "target": "59",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "source": "54",
+                    "target": "60",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "61",
+                    "target": "60",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "62",
+                    "target": "60",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "source": "54",
+                    "target": "61",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "62",
+                    "target": "61",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "source": "54",
+                    "target": "62",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "source": "25",
+                    "target": "62",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "mother"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "72",
+                    "target": "64",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "source": "69",
+                    "target": "65",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "67",
+                    "target": "65",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "68",
+                    "target": "65",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "source": "69",
+                    "target": "67",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "68",
+                    "target": "67",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "source": "69",
+                    "target": "68",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "source": "67",
+                    "target": "70",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "source": "66",
+                    "target": "70",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "mother"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "71",
+                    "target": "70",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "28",
+                    "target": "70",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "26",
+                    "target": "70",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "source": "67",
+                    "target": "71",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "source": "66",
+                    "target": "71",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "mother"
+                        }
+                    ]
+                },
+                {
+                    "source": "77",
+                    "target": "76",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "source": "82",
+                    "target": "76",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "mother"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "82",
+                    "target": "77",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "source": "67",
+                    "target": "80",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "father"
+                        }
+                    ]
+                },
+                {
+                    "source": "66",
+                    "target": "80",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "mother"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "71",
+                    "target": "80",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "28",
+                    "target": "80",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "26",
+                    "target": "80",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "biological"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "sibling"
+                        }
+                    ]
+                },
+                {
+                    "directed": "false",
+                    "source": "6",
+                    "target": "16",
+                    "data": {
+                        "key": "relation",
+                        "text": "lover"
+                    }
+                },
+                {
+                    "directed": "false",
+                    "source": "11",
+                    "target": "29",
+                    "data": {
+                        "key": "relation",
+                        "text": "lover"
+                    }
+                },
+                {
+                    "directed": "false",
+                    "source": "14",
+                    "target": "63",
+                    "data": {
+                        "key": "relation",
+                        "text": "lover"
+                    }
+                },
+                {
+                    "directed": "false",
+                    "source": "15",
+                    "target": "39",
+                    "data": {
+                        "key": "relation",
+                        "text": "lover"
+                    }
+                },
+                {
+                    "directed": "false",
+                    "source": "25",
+                    "target": "54",
+                    "data": {
+                        "key": "relation",
+                        "text": "lover"
+                    }
+                },
+                {
+                    "directed": "false",
+                    "source": "52",
+                    "target": "63",
+                    "data": {
+                        "key": "relation",
+                        "text": "lover"
+                    }
+                },
+                {
+                    "directed": "false",
+                    "source": "12",
+                    "target": "13",
+                    "data": {
+                        "key": "relation",
+                        "text": "lover"
+                    }
+                },
+                {
+                    "directed": "false",
+                    "source": "33",
+                    "target": "34",
+                    "data": {
+                        "key": "relation",
+                        "text": "lover"
+                    }
+                },
+                {
+                    "directed": "false",
+                    "source": "12",
+                    "target": "37",
+                    "data": {
+                        "key": "relation",
+                        "text": "spouse"
+                    }
+                },
+                {
+                    "directed": "false",
+                    "source": "14",
+                    "target": "28",
+                    "data": {
+                        "key": "relation",
+                        "text": "spouse"
+                    }
+                },
+                {
+                    "directed": "false",
+                    "source": "28",
+                    "target": "41",
+                    "data": {
+                        "key": "relation",
+                        "text": "spouse"
+                    }
+                },
+                {
+                    "directed": "false",
+                    "source": "29",
+                    "target": "44",
+                    "data": {
+                        "key": "relation",
+                        "text": "spouse"
+                    }
+                },
+                {
+                    "directed": "false",
+                    "source": "32",
+                    "target": "33",
+                    "data": {
+                        "key": "relation",
+                        "text": "spouse"
+                    }
+                },
+                {
+                    "directed": "false",
+                    "source": "33",
+                    "target": "34",
+                    "data": {
+                        "key": "relation",
+                        "text": "spouse"
+                    }
+                },
+                {
+                    "directed": "false",
+                    "source": "35",
+                    "target": "81",
+                    "data": {
+                        "key": "relation",
+                        "text": "spouse"
+                    }
+                },
+                {
+                    "directed": "false",
+                    "source": "40",
+                    "target": "81",
+                    "data": {
+                        "key": "relation",
+                        "text": "spouse"
+                    }
+                },
+                {
+                    "directed": "false",
+                    "source": "53",
+                    "target": "76",
+                    "data": {
+                        "key": "relation",
+                        "text": "spouse"
+                    }
+                },
+                {
+                    "directed": "false",
+                    "source": "66",
+                    "target": "67",
+                    "data": {
+                        "key": "relation",
+                        "text": "spouse"
+                    }
+                },
+                {
+                    "directed": "false",
+                    "source": "68",
+                    "target": "76",
+                    "data": {
+                        "key": "relation",
+                        "text": "spouse"
+                    }
+                },
+                {
+                    "directed": "false",
+                    "source": "77",
+                    "target": "82",
+                    "data": {
+                        "key": "relation",
+                        "text": "spouse"
+                    }
+                },
+                {
+                    "directed": "false",
+                    "source": "79",
+                    "target": "81",
+                    "data": {
+                        "key": "relation",
+                        "text": "spouse"
+                    }
+                },
+                {
+                    "source": "3",
+                    "target": "29",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "dragon"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "78",
+                    "target": "29",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "dragon"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "4",
+                    "target": "11",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "pledge"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "5",
+                    "target": "11",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "direwolf"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "9",
+                    "target": "10",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "pledge"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "10",
+                    "target": "29",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "pledge"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "15",
+                    "target": "11",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "pledge"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "15",
+                    "target": "29",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "pledge"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "19",
+                    "target": "26",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "direwolf"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "21",
+                    "target": "30",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "pledge"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "24",
+                    "target": "29",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "dragon"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "47",
+                    "target": "71",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "direwolf"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "49",
+                    "target": "28",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "direwolf"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "64",
+                    "target": "70",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "direwolf"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "72",
+                    "target": "27",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "direwolf"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "75",
+                    "target": "11",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "pledge"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "22",
+                    "target": "67",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "pledge"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "17",
+                    "target": "29",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "pledge"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "16",
+                    "target": "29",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "pledge"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "6",
+                    "target": "29",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "oath"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "1",
+                    "target": "37",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "kingsguard"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "1",
+                    "target": "35",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "kingsguard"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "1",
+                    "target": "40",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "kingsguard"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "1",
+                    "target": "12",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "queensquard"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "2",
+                    "target": "37",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "kingsguard"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "2",
+                    "target": "35",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "kingsguard"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "14",
+                    "target": "29",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "hand"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "67",
+                    "target": "37",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "hand"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "20",
+                    "target": "37",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "pledge"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "20",
+                    "target": "35",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "pledge"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "23",
+                    "target": "27",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "pledge"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "59",
+                    "target": "27",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "pledge"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "25",
+                    "target": "29",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "pledge"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "30",
+                    "target": "66",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "oath"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "32",
+                    "target": "37",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "hand"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "43",
+                    "target": "76",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "hand"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "42",
+                    "target": "45",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "pledge"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "45",
+                    "target": "52",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "pledge"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "46",
+                    "target": "12",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "pledge"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "57",
+                    "target": "67",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "pledge"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "9",
+                    "target": "67",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "ward"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "83",
+                    "target": "29",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "pledge"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                },
+                {
+                    "source": "78",
+                    "target": "18",
+                    "data": [
+                        {
+                            "key": "type",
+                            "text": "dragon"
+                        },
+                        {
+                            "key": "relation",
+                            "text": "allegiance"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

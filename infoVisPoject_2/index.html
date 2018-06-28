@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<meta charset="utf-8"/>
+<style>
+
+.node {
+  font: 400 12px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  fill: #bbb;
+}
+@font-face {
+    font-family: 'Got';
+    src: url('font/Game of Thrones.ttf');
+}
+.text_image{
+  font: 400 15px Got;
+  fill: #2c2c2c;
+}
+.node:hover {
+  fill: #000;
+}
+
+.link {
+  stroke: steelblue;
+  stroke-opacity: 0.4;
+  fill: none;
+  pointer-events: none;
+}
+
+.node:hover,
+.node--source,
+.node--target {
+  font-weight: 700;
+}
+
+
+.node--target {
+  stroke: #2ca02c;
+}
+
+.node--killed {
+  fill: #75c46e;
+}
+.node--allegiance {
+  fill: #f2b16a;
+}
+.node--spouse {
+  fill: #00cccc;
+}
+.node--lover {
+  fill: #d85555;
+}
+.node--sibling {
+  fill: #817ac2;
+}
+.node--mother {
+  fill: #2c2c2c;
+}
+.node--father {
+  fill: #2c2c2c;
+}
+
+.link--killed,
+.link--allegiance,
+.link--spouse,
+.link--lover,
+.link--sibling,
+.link--mother,
+.link--father,
+.link--source,
+.link--target {
+  stroke-opacity: 0.5;
+  stroke-width: 1px;
+}
+
+.link--light{
+  stroke-opacity: 0.8;
+  stroke-width: 2.3px;
+}
+
+.link--killed {
+  stroke: #75c46e;
+}
+.link--allegiance {
+  stroke: #f2b16a;
+}
+.link--spouse {
+  stroke: #00cccc;
+}
+.link--lover {
+  stroke: #d85555;
+}
+.link--sibling {
+  stroke: #817ac2;
+}
+.link--mother {
+  stroke: #2c2c2c;
+}
+.link--father {
+  stroke: #2c2c2c;
+}
+</style>
+<head>
+    <title>Game of Thrones</title>
+<script src="https://d3js.org/d3.v5.min.js"></script>
+</head>
+<body>
+<script src="js/got.js"></script>
+</body>
+</html>
